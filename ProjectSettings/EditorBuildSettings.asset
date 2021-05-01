@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: de3cc70ed18ff724aba68963e4c6a569
+  - enabled: 1
+    path: Assets/Scenes/Camera.unity
+    guid: e8201a49301cd0b4aa026050f58feca3
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 3bfe47b6f25e2ff47955156527f132ad
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 0459138fb07bf334681351a57f54f53c
+  - enabled: 1
+    path: Assets/Scenes/Tugu.unity
+    guid: 7b1411ccbd705b245b15988e3adfc271
+  - enabled: 1
+    path: Assets/Scenes/Melati.unity
+    guid: d7c04b952da25d44f8697d702535dc30
+  - enabled: 1
+    path: Assets/Scenes/CameraMelati.unity
+    guid: 97c7e89e94dadb349b6eff5612f17a62
+  - enabled: 1
+    path: Assets/Scenes/CameraTugu.unity
+    guid: a060e87808887c041be1675dfbe1b3aa
+  m_configObjects: {}

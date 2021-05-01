@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Monumen_Melati" size="50.000000 66.829269" />
+    <ImageTarget name="Monumen_Tugu_Malang2" size="50.000000 37.500000" />
+    <ImageTarget name="Monumen_Tugu_Malang" size="50.000000 74.853798" />
+    <ImageTarget name="logo3" size="50.000000 81.500000" />
+    <ImageTarget name="logo2" size="100.000000 100.000000" />
+    <ImageTarget name="logo" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
